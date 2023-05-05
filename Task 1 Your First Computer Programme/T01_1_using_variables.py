@@ -12,11 +12,10 @@ print()
 
 age = input("Enter your age: ")
 print()
-print("Your are " + age + " years old.")
+print("You are " + age + " years old.")
 print()
 
 # (3) Print the string “Hello World!”
 
 print("Hello World!")
 print()
-
