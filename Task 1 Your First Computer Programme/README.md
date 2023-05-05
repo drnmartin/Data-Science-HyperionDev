@@ -1,7 +1,27 @@
-# My Data Science Projects from my HyperionDev course.
+# Task 1: Your First Computer Programme
 
-These are my completed assignments from the training course. There were 25 tasks in total, some of which were not coding tasks. Only the coding tasks have been added to GitHub.
-The majority of the tasks were in Python and some later tasks are in Jupyter Notebook. Some tasks require data files in the
-form of either .txt or .csv. These data files are included in the folders so that the programmes can execute.
+There are two programmes within this task. The first programme asks for your name and age and returns this as print output.
 
+```Enter your name: John
 
+Your name is John.
+
+Enter your age: 26
+
+You are 26 years old.
+
+Hello World!```
+
+The second programme asks for three of your favourite foods and returns your responses as print output.
+
+```Your first favourite food item on this menu is: Pizza
+
+Your second favourite food item on this menu is: Chips
+
+Your third favourite food item on this menu is: Burgers
+
+Your three favourite food items on this menu are:
+
+Pizza
+Chips
+Burgers```
