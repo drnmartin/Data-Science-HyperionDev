@@ -1,6 +1,6 @@
 # Task 1: Your First Computer Programme
 
-There are two programmes within this task. The first programme asks for your name and age and returns this as print output.
+There are two programmes within this task. The first programme (using_variables) asks for your name and age and returns this as print output.
 
 ```
 Enter your name: John
@@ -14,7 +14,7 @@ You are 26 years old.
 Hello World!
 ```
 
-The second programme asks for three of your favourite foods and returns your responses as print output.
+The second programme (taking_user_inputs) asks for three of your favourite foods and returns your responses as print output.
 
 ```
 Your first favourite food item on this menu is: Pizza
