@@ -1,31 +1,22 @@
-# Task 1: Your First Computer Programme
+# Task 2: The String Data Type
 
-There are two programmes within this task. The first programme (using_variables) asks for your name and age and returns this as print output.
-
-```
-Enter your name: John
-
-Your name is John.
-
-Enter your age: 26
-
-You are 26 years old.
-
-Hello World!
-```
-
-The second programme (taking_user_inputs) asks for three of your favourite foods and returns your responses as print output.
+There are two programmes within this task. The first programme (string_strip) simply demonstrates the use of the strip string manipulation method. The $ symbol is stripped from the string.
 
 ```
-Your first favourite food item on this menu is: Pizza
+$$$Superman$$$
 
-Your second favourite food item on this menu is: Chips
+Superman
+```
 
-Your third favourite food item on this menu is: Burgers
+The second programme (string_manipulations) first strips ! from the sentence, then it capitalises the resulting sentence and finally it reverses the sentence.
 
-Your three favourite food items on this menu are:
+```
+The original phrase is: The!quick!brown!fox!jumps!over!the!lazy!dog!.
 
-Pizza
-Chips
-Burgers
+The original phrase with the exclamation marks removed is: The quick brown fox jumps over the lazy 
+dog .
+
+The original cleaned phrase fully capitalised is: THE QUICK BROWN FOX JUMPS OVER THE LAZY DOG .    
+
+The original cleaned phrase reversed is: . god yzal eht revo spmuj xof nworb kciuq ehT 
 ```

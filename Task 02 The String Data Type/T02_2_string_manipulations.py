@@ -24,3 +24,11 @@ updated = cleaned_phrase.upper()
 print()
 print("The original cleaned phrase fully capitalised is: " + str(updated))
 print()
+
+# (4) To reverse the full content of cleaned_phrase.
+
+updated = cleaned_phrase[::-1]
+
+print()
+print("The original cleaned phrase reversed is: " + str(updated))
+print()
